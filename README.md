@@ -1111,6 +1111,6 @@ This tool is provided **AS-IS** for educational purposes. The author (voltsparx)
 
 ---
 
-**RedLoad-X v7.1** - Network Stress Testing Tool  
+**RedLoad-X v8** - Network Stress Testing Tool  
 **By voltsparx** | voltsparx@gmail.com  
 **Released:** September, 2025  
